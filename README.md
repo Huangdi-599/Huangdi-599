@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Huangdi-599
 - 👀 I’m interested in, software development, Ethical Hacking, APIs, Networking 
-- 🌱 I’m currently learning Web API
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on softtware development projects
 - 📫 How to reach me 
 
 <!---
