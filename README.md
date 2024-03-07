@@ -7,7 +7,7 @@
 </div>
 
 <p>
-    Hello, I am a software engineer with expertise in software and web development. I have experience working on various project,    and I am passionate about building efficient, scalable and user-friendly applications. I have a strong foundation in javascript, python, C, C++, Bash and I am always eager to learn and adapt to new technologies and industry trends. I thrive in collaborative environments and enjoy working on   projects that challenge me to think creatively and critically.
+    Hello, I am a software engineer with expertise in software and web development. I have experience working on various project,    and I am passionate about building efficient, scalable and user-friendly applications. I have a strong foundation in javascript, typesript, python, C, C++, Bash and I am always eager to learn and adapt to new technologies and industry trends. I thrive in collaborative environments and enjoy working on   projects that challenge me to think creatively and critically.
 </p>
 
 ### :man_technologist: About Me :
